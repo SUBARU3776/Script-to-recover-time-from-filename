@@ -2,7 +2,7 @@ import base64
 import time
 
 # 画像ファイル名
-s_filename = ''
+s_filename = 'hogehoge'
 
 # デコード済みファイル名
 s_filename += '=' * (-len(s_filename) % 4)  # パディング文字を追加
